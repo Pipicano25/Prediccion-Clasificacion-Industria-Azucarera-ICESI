@@ -9,3 +9,9 @@ __pycache__/
 
 *.parquet
 *.pkl
+
+notebook/
+examen.ipynb
+examen2.ipynb
+predicciones_scores.data
+riesgo_cardiovascular.data
