@@ -9,6 +9,7 @@ __pycache__/
 
 *.parquet
 *.pkl
+*.xlsx
 
 notebook/
 examen.ipynb
