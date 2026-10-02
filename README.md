@@ -16,6 +16,16 @@ Proyecto académico de la Universidad ICESI que analiza datos de la industria az
 2. Crear un entorno virtual e instalar las dependencias de análisis de datos y machine learning (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `reportlab`, `openpyxl`).
 3. Los datos de entrada se encuentran en `data/raw/` (archivos `.xlsx`).
 
+## Temas, tecnologías y notebooks
+
+Cada notebook enlaza a su archivo en GitHub.
+
+| Tema | Tecnologías | Notebooks |
+|---|---|---|
+| Predicción TCH/sacarosa: clasificación | scikit-learn, seaborn | [clasificacion.ipynb](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI/blob/main/scripts/clasificacion.ipynb) |
+| Predicción TCH/sacarosa: regresión | scikit-learn, pandas | [exploracion_datos.ipynb](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI/blob/main/scripts/Regresion/exploracion_datos.ipynb), [exploracion_datos_2.ipynb](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI/blob/main/scripts/Regresion/exploracion_datos_2.ipynb), [regresion_tch_sac_cania.ipynb](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI/blob/main/scripts/Regresion/regresion_tch_sac_cania.ipynb) |
+| Pipeline paso a paso (EDA + regresión) | scikit-learn, pandas | [Paso_a_Paso_Providencia.ipynb](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI/blob/main/example/Paso_a_Paso_Providencia.ipynb) |
+
 ## Uso
 
 - `scripts/Regresion/exploracion_datos.ipynb` y `exploracion_datos_2.ipynb` — análisis exploratorio de los datos.
